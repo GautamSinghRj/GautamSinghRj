@@ -10,10 +10,10 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="www.linkedin.com/in/gautam-singh-1962b4348" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+  <a href="https://leetcode.com/u/GautamSinghnewbie" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 ### 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcode.com/u/GautamSinghnewbie?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/GautamSinghnewbie?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
