@@ -36,3 +36,32 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gautam-singh&theme=dracula" />
 </p>
+name: Update README with UTC Time
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          echo "Last updated at: $(date -u)" > README.md
+          cat <<EOF >> README.md
+
+## ⏰ This README auto-updates every hour!
+
+EOF
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git commit -m "Update README with time"
+          git push
