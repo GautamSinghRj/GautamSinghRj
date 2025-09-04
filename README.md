@@ -31,7 +31,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,mongodb,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,docker,java,spring,mysql,mongodb,git,github,linux" />
 </p>
 
 ---
