@@ -41,7 +41,7 @@
 | Project | Stack | Demo |
 |--------|-------|------|
 | Music App | React + Spring Boot + PostgreSQL | [🔗 Demo](https://frimum.vercel.app) |
-| SAAS App | React+ SpringBoot + MySQL | [🔗 Demo](https://your-app-link.com) |
+| Api Gateway | Node.js + Express + PostgreSQL | [🔗 Demo](https://gateway-kyxa.onrender.com/) |
 | Portfolio Website | HTML + CSS + GSAP | [🔗 Demo](https://gautamsingh.vercel.app/) |
 
 ---
